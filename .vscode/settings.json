@@ -1,7 +1,20 @@
 {
-    "jupyter.jupyterServerType": "local",
+    "jupyter.alwaysTrustNotebooks": true,
+    "git.autofetch": true,
+    "python.showStartPage": false,
+    "python.defaultInterpreterPath": "/Library/Frameworks/Python.framework/Versions/3.7/bin/python3",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.suggestSelection": "first",
+    "python.languageServer": "Microsoft",
     "cSpell.enableFiletypes": [
-        "jupyter",
         "r"
-    ]
+    ],
+    "vsintellicode.features.python.deepLearning": "enabled",
+    "cSpell.language": "en",
+    "editor.suggest.showStatusBar": true,
+    "python.autoComplete.addBrackets": true,
+    "window.openFoldersInNewWindow": "on",
+    "files.autoSave": "off",
+    "path-intellisense.autoSlashAfterDirectory": true,
+    "path-intellisense.extensionOnImport": true,
 }
